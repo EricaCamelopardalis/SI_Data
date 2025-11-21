@@ -1,0 +1,156 @@
+Semester,Year,Course_Name,Requirement
+Fall,2018,ACCT 2013,Required
+Fall,2018,ACCT 2023,Required
+Fall,2018,CHEM 1073,Required
+Fall,2018,CHEM 1103,Required
+Fall,2018,CHEM 1123,Required
+Fall,2018,ECON 2013,Required
+Fall,2018,ECON 2013 Online,Required
+Fall,2018,ECON 2013H,Required
+Fall,2018,ECON 2023,Required
+Fall,2018,ECON 2143,Required
+Fall,2018,EXSC 3353,Required
+Fall,2018,NURS 3314,Required
+Fall,2018,BIOL 1543,Voluntary
+Fall,2018,WCOB 1033,Voluntary
+Spring,2019,ACCT 2013,Required
+Spring,2019,ACCT 2023,Required
+Spring,2019,ACCT 2023 Online,Required
+Spring,2019,CHEM 1073,Required
+Spring,2019,CHEM 1103,Required
+Spring,2019,CHEM 1123,Required
+Spring,2019,CHEM 1123H,Required
+Spring,2019,CHEM 3603,Required
+Spring,2019,ECON 2013,Required
+Spring,2019,ECON 2013H,Required
+Spring,2019,ECON 2023,Required
+Spring,2019,ECON 2023H,Required
+Spring,2019,ECON 2143,Required
+Spring,2019,ECON 2143H,Required
+Spring,2019,EXSC 3353,Required
+Spring,2019,NURS 3314,Required
+Spring,2019,BIOL 1543,Voluntary
+Spring,2019,MATH 2043,Voluntary
+Spring,2019,WCOB 1033,Voluntary
+Fall,2019,ACCT 2013,Required
+Fall,2019,ACCT 2023,Required
+Fall,2019,ACCT 2023 Online,Required
+Fall,2019,CHEG 2113,Required
+Fall,2019,CHEG 2133,Required
+Fall,2019,CHEM 1073,Required
+Fall,2019,CHEM 1103,Required
+Fall,2019,CHEM 1123,Required
+Fall,2019,CHEM 3603,Required
+Fall,2019,ECON 2013,Required
+Fall,2019,ECON 2013H,Required
+Fall,2019,ECON 2023,Required
+Fall,2019,ECON 2143,Required
+Fall,2019,EXSC 3353,Required
+Fall,2019,NURS 3314,Required
+Fall,2019,BIOL 1543,Voluntary
+Fall,2019,MATH 2043,Voluntary
+Fall,2019,WCOB 1033,Voluntary
+Fall,2019,CHEM 1123H,Voluntary
+Fall,2019,UNIV 1001,Voluntary
+Spring,2020,ACCT 2013,Required
+Spring,2020,ACCT 2013 Online,Required
+Spring,2020,ACCT 2023,Required
+Spring,2020,CHEG 2133,Required
+Spring,2020,CHEM 1073,Required
+Spring,2020,CHEM 1073 Online,Required
+Spring,2020,CHEM 1103,Required
+Spring,2020,CHEM 1123,Required
+Spring,2020,CHEM 1123H,Required
+Spring,2020,CHEM 3603,Required
+Spring,2020,ECON 2013,Required
+Spring,2020,ECON 2023,Required
+Spring,2020,ECON 2023 Online,Required
+Spring,2020,ECON 2023H,Required
+Spring,2020,ECON 2143,Required
+Spring,2020,ECON 2143 Online,Required
+Spring,2020,ECON 2143H,Required
+Spring,2020,EXSC 3353,Required
+Spring,2020,NURS 3314,Required
+Spring,2020,BIOL 1543,Voluntary
+Fall,2020,CHEM 1073,Required
+Fall,2020,CHEM 1073 Online,Required
+Fall,2020,CHEM 1103,Required
+Fall,2020,CHEM 1123,Required
+Fall,2020,ECON 2013H,Required
+Fall,2020,ACCT 2013,Voluntary
+Fall,2020,BIOL 1543,Voluntary
+Fall,2020,ECON 2013,Voluntary
+Fall,2020,ECON 2023,Voluntary
+Fall,2020,NURS 3314,Voluntary
+Spring,2021,CHEM 1073,Required
+Spring,2021,CHEM 1073 Online,Required
+Spring,2021,CHEM 1103,Required
+Spring,2021,CHEM 1123,Required
+Spring,2021,CHEM 1123H,Required
+Spring,2021,ECON 2023H,Required
+Spring,2021,ACCT 2013,Voluntary
+Spring,2021,ACCT 2013 Online,Voluntary
+Spring,2021,ACCT 2023,Voluntary
+Spring,2021,ACCT 2023 Online,Voluntary
+Spring,2021,BIOL 1543,Voluntary
+Spring,2021,ECON 2013,Voluntary
+Spring,2021,ECON 2023,Voluntary
+Spring,2021,ECON 2143,Voluntary
+Spring,2021,NURS 3314,Voluntary
+Fall,2021,CHEM 1073,Required
+Fall,2021,CHEM 1073 Online,Required
+Fall,2021,CHEM 1103,Required
+Fall,2021,CHEM 1123,Required
+Fall,2021,BIOL 1543,Voluntary
+Spring,2022,CHEM 1073,Required
+Spring,2022,CHEM 1073 Online,Required
+Spring,2022,CHEM 1103,Required
+Spring,2022,CHEM 1123,Required
+Spring,2022,CHEM 1123H,Required
+Spring,2022,CHEM 2613,Required
+Spring,2022,EXSC 3353,Required
+Spring,2022,BIOL 1543,Voluntary
+Fall,2022,BIOL 1543,Required
+Fall,2022,CHEM 1073,Required
+Fall,2022,CHEM 1073 Online,Required
+Fall,2022,CHEM 1103,Required
+Fall,2022,CHEM 1123,Required
+Fall,2022,CHEM 2613,Required
+Fall,2022,EXSC 3353,Voluntary
+Spring,2023,ACCT 2013,Required
+Spring,2023,BIOL 1543,Required
+Spring,2023,CHEM 1073,Required
+Spring,2023,CHEM 1073 Online,Required
+Spring,2023,CHEM 1103,Required
+Spring,2023,CHEM 1123,Required
+Spring,2023,CHEM 1123H,Required
+Spring,2023,CHEM 2613,Required
+Spring,2023,CHEM 3603,Required
+Spring,2023,CHEM 3613,Required
+Spring,2023,EXSC 3353,Voluntary
+Fall,2023,ACCT 2013,Required
+Fall,2023,BIOL 1543,Required
+Fall,2023,CHEM 1073,Required
+Fall,2023,CHEM 1073 Online,Required
+Fall,2023,CHEM 1103,Required
+Fall,2023,CHEM 1123,Required
+Fall,2023,CHEM 2613,Required
+Fall,2023,CHEM 3603,Required
+Fall,2023,CHEM 3613,Required
+Spring,2024,ACCT 2013,Required
+Spring,2024,BIOL 1543,Required
+Spring,2024,CHEM 1073,Required
+Spring,2024,CHEM 1073 Online,Required
+Spring,2024,CHEM 1103,Required
+Spring,2024,CHEM 1123,Required
+Fall,2024,BIOL 10103,Required
+Fall,2024,CHEM 12103,Required
+Fall,2024,CHEM 12103 Online,Required
+Fall,2024,CHEM 14103,Required
+Fall,2024,CHEM 14203,Required
+Spring,2025,BIOL 10103,Required
+Spring,2025,CHEM 12103,Required
+Spring,2025,CHEM 12103 Online,Required
+Spring,2025,CHEM 14103,Required
+Spring,2025,CHEM 14203,Required
+Spring,2025,CHEM 36053,Required
